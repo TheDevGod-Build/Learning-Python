@@ -15,6 +15,6 @@ elif operator == "*":
     print (f"The product of {num1} and {num2} is {result}.")
 elif operator == "/":
     result = num1 / num2
-    print (f"The quotient by dividing {num1} and {num2} is {result}")
+    print (f"The quotient by dividing {num1} and {num2} is {round(result , 4)}")
 else:
     print ("Invalid operator")
