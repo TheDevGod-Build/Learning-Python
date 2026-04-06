@@ -6,7 +6,7 @@ Started from zero — this repo documents everything I've made along the way.
 🗂️ Projects
 🎰 Slot Machine
 A fully functional slot machine game with tiered rewards.
-Concepts: Functions, dictionaries, error handling, randomness, pygame
+Concepts: Functions, dictionaries, error handling, randomness
 🏦 Banking Program
 A simple banking system to deposit, withdraw, and check balance.
 Concepts: Functions, conditionals, loops, input validation
